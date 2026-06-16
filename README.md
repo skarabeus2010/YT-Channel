@@ -20,6 +20,7 @@ Fünf „Experten" als kopierfertige Prompts + ein **Controller**, der jedes Vid
 | [channel-setup.md](docs/channel-setup.md) | Kanal-Identität „Embered Ages": Name, Handle, Branding, Setup-Checkliste |
 | [research-findings.md](docs/research-findings.md) | Alle Recherche-Daten: Benchmarks, Preise, Policy, Higgsfield, Stack |
 | [decisions-log.md](docs/decisions-log.md) | Entscheidungen + Begründungen + offene Punkte |
+| [lessons-learned.md](docs/lessons-learned.md) | Praxiswissen aus der Produktion (Higgsfield, ffmpeg, Kosten, Fallstricke) |
 | [sources.md](docs/sources.md) | Quellenlinks (Stand Juni 2026) |
 | [glossary.md](docs/glossary.md) | Begriffe kurz erklärt |
 
