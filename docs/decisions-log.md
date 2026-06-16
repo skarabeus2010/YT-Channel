@@ -17,6 +17,10 @@
 | 9 | **Compliance: Disclosure + C2PA + Quellen-Log Pflicht** | Genre ist Hauptziel der Sperrwelle; EU AI Act ab Aug 2026 | fix (Hard-Stop im Controller) |
 | 10 | **Upload: semi-auto (Python + YouTube Data API)** | Kein YouTube-MCP-Connector verfügbar; „private-until-audited"-Limit → privat/terminiert hochladen, Mensch setzt KI-Label + veröffentlicht (= Controller-Gate). Python statt n8n: null Hosting-Kosten | fix |
 | 11 | **n8n erst später** | Lohnt erst bei fester Cadence-Automatisierung (VPS-Kosten) | aufgeschoben |
+| 12 | **Neuer Kanal** (statt bestehenden umnutzen) | Sauberes Algorithmus-Signal, klare Marke, getrennt vom Privaten; alter Kanal bleibt unangetastet | fix |
+| 13 | **Name: Embered Ages** (@EmberedAges) | Plattformübergreifend frei; „Ember"/Feuerschein trifft das antike Nacht-Motiv; kurz & brandbar. Details: docs/channel-setup.md | fix |
+| 14 | **Tagline + About mit KI-Disclosure** | „History, brought to life by firelight." + About mit Fact-Check-/AI-Hinweis = Anti-Slop-Signal | fix |
+| 15 | **Alte Videos: nichts tun** | Neuer Kanal → kein Aufräumen/Privatstellen nötig | fix |
 
 ## Offene Punkte
 - **Shorts-first vs. Long-form-first** endgültig bestätigen (Default: Shorts-first).

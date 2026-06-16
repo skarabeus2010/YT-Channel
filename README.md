@@ -2,6 +2,8 @@
 
 Operating-Kit zum Aufbau eines **englischsprachigen, faceless, KI-cinematischen Historien-Kanals** nach Vorbild von [@Zenn0009](https://www.youtube.com/@Zenn0009), produziert mit [Higgsfield.ai](https://higgsfield.ai/).
 
+**Kanal:** **Embered Ages** — @EmberedAges (neuer Brand-Account). Identität & Setup: [docs/channel-setup.md](docs/channel-setup.md).
+
 > **Strategie & Doku:** Vollständiger Plan + Recherche liegen in [`docs/`](docs/strategy-plan.md).
 > Dieses Repo macht den Plan **ausführbar**. (Original-Planfile auch unter
 > `~/.claude/plans/verwende-agenten-eine-youtube-experte-quirky-sky.md`.)
@@ -15,6 +17,7 @@ Fünf „Experten" als kopierfertige Prompts + ein **Controller**, der jedes Vid
 | Datei | Inhalt |
 |---|---|
 | [strategy-plan.md](docs/strategy-plan.md) | Vollständiger Strategie-Plan (Single Source of Truth) |
+| [channel-setup.md](docs/channel-setup.md) | Kanal-Identität „Embered Ages": Name, Handle, Branding, Setup-Checkliste |
 | [research-findings.md](docs/research-findings.md) | Alle Recherche-Daten: Benchmarks, Preise, Policy, Higgsfield, Stack |
 | [decisions-log.md](docs/decisions-log.md) | Entscheidungen + Begründungen + offene Punkte |
 | [sources.md](docs/sources.md) | Quellenlinks (Stand Juni 2026) |
@@ -27,6 +30,7 @@ YT-Channel/
 ├─ README.md                 ← du bist hier
 ├─ docs/                     ← Doku (Plan, Recherche, Entscheidungen, Quellen, Glossar)
 │  ├─ strategy-plan.md
+│  ├─ channel-setup.md
 │  ├─ research-findings.md
 │  ├─ decisions-log.md
 │  ├─ sources.md

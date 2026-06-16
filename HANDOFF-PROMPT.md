@@ -16,12 +16,14 @@ vollen Kontext zu haben, bevor du irgendetwas tust:
   2. docs/strategy-plan.md      (die Gesamtstrategie, Single Source of Truth)
   3. docs/decisions-log.md      (was entschieden wurde + offene Punkte)
   4. docs/research-findings.md  (Benchmarks, Preise, Policy, Higgsfield, Tool-Stack)
-  5. überfliege agents/, templates/, workflow/, scripts/
+  5. docs/channel-setup.md      (Kanal-Identität: Embered Ages)
+  6. überfliege agents/, templates/, workflow/, scripts/
 
 Worum es geht: faceless, KI-generierte cinematische Geschichts-Videos (immersive Antike),
-produziert mit Higgsfield.ai, Englisch, als minimal-Budget-Lern-Experiment. 5-Rollen-Modell
-(YouTube-Stratege, SEO, Content-Creator, Marketing, Controller) mit dem Controller als
-Qualitäts-Gate.
+produziert mit Higgsfield.ai, Englisch, als minimal-Budget-Lern-Experiment. Der Kanal heißt
+"Embered Ages" (@EmberedAges), neuer Google-Brand-Account (Identität: docs/channel-setup.md).
+5-Rollen-Modell (YouTube-Stratege, SEO, Content-Creator, Marketing, Controller) mit dem
+Controller als Qualitäts-Gate.
 
 NICHT VERHANDELBARE LEITPLANKEN (sonst YouTube-Sperre – das ist der Kern des Projekts):
   - Compliance Hard-Stops pro Video: KI-Disclosure-Label + C2PA-Metadaten +

@@ -1,0 +1,33 @@
+<svg width="100%" viewBox="0 0 680 372" role="img" xmlns="http://www.w3.org/2000/svg"><title>Logo-Konzept Embered Ages</title><desc>Eine ewige Flamme in einer antiken Schale, eingefasst in ein dunkles Medaillon mit Goldring, darunter der Schriftzug Embered Ages und die Tagline.</desc>
+<defs>
+<radialGradient id="ember" cx="50%" cy="64%" r="62%">
+<stop offset="0%" stop-color="#FFF6D8"/>
+<stop offset="32%" stop-color="#FFC24D"/>
+<stop offset="66%" stop-color="#FF7A18"/>
+<stop offset="100%" stop-color="#B83C0C"/>
+</radialGradient>
+<radialGradient id="glow" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#FF8A2E" stop-opacity="0.55"/>
+<stop offset="55%" stop-color="#FF7A18" stop-opacity="0.16"/>
+<stop offset="100%" stop-color="#FF7A18" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect x="130" y="28" width="420" height="324" rx="22" fill="#141019" stroke="#C99A3A" stroke-opacity="0.35" stroke-width="1"/>
+<circle cx="340" cy="148" r="86" fill="#1a141f"/>
+<circle cx="340" cy="150" r="66" fill="url(#glow)"/>
+<path d="M309,178 C312,196 323,203 340,203 C357,203 368,196 371,178 Z" fill="#221a14" stroke="#C99A3A" stroke-width="1.2"/>
+<ellipse cx="340" cy="178" rx="33" ry="8" fill="#3b2d20" stroke="#C99A3A" stroke-width="1.5"/>
+<ellipse cx="340" cy="210" rx="13" ry="4" fill="#2a2016" stroke="#C99A3A" stroke-opacity="0.7" stroke-width="1"/>
+<rect x="332" y="203" width="16" height="6" fill="#2a2016"/>
+<path d="M325,176 C319,158 326,140 333,124 C337,114 339,106 340,98 C342,108 345,118 349,130 C356,148 361,160 355,176 C349,186 331,186 325,176 Z" fill="url(#ember)"/>
+<path d="M334,172 C330,160 333,148 338,136 C339,130 340,126 340,120 C342,128 344,136 347,146 C351,158 350,166 346,172 C342,178 338,178 334,172 Z" fill="#FFE9A8" fill-opacity="0.92"/>
+<ellipse cx="340" cy="162" rx="5.5" ry="11" fill="#FFF7DC" fill-opacity="0.85"/>
+<circle cx="352" cy="120" r="2.3" fill="#FFCF7A" fill-opacity="0.9"/>
+<circle cx="330" cy="108" r="1.7" fill="#FFCF7A" fill-opacity="0.85"/>
+<circle cx="345" cy="95" r="1.9" fill="#FFCF7A" fill-opacity="0.9"/>
+<circle cx="336" cy="128" r="1.3" fill="#FFCF7A" fill-opacity="0.7"/>
+<circle cx="340" cy="148" r="86" fill="none" stroke="#C99A3A" stroke-width="2"/>
+<circle cx="340" cy="148" r="78" fill="none" stroke="#C99A3A" stroke-opacity="0.5" stroke-width="0.7"/>
+<text x="340" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="33" font-weight="500" letter-spacing="1.5" fill="#E8C079">Embered Ages</text>
+<text x="340" y="326" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="2" fill="#B9A37E">History, brought to life by firelight</text>
+</svg>

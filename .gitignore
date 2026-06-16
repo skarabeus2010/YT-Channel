@@ -6,6 +6,11 @@ token.json
 # Lokale, maschinen-spezifische Claude-Einstellungen
 .claude/settings.local.json
 
+# Installiertes Skill-/Agent-Tooling (kein Projekt-Inhalt)
+.agents/
+.claude/skills/
+skills-lock.json
+
 # Echte Metadaten (Beispiel video_metadata.example.json bleibt versioniert)
 scripts/video_metadata.json
 
