@@ -2,7 +2,8 @@
 
 > Pflicht für jedes Video (Hard-Stop-Gate 6.2). Vom **Content-Creator** geführt, vom **Controller** geprüft.
 >
-> **Status-Hinweis:** Per KI-Web-Recherche gegen Quellen geprüft (Stand 2026-06-16) → „Quelle bestätigt". Die **finale menschliche Redaktions-Freigabe (Heiko)** ist noch ausstehend.
+> **Status-Hinweis:** Per KI-Web-Recherche gegen Quellen geprüft → „Quelle bestätigt".
+> ✅ **MENSCHLICHE REDAKTIONS-FREIGABE erteilt von Heiko am 2026-06-17** — Hard-Stop-Gate 6.2 bestanden. Offen bleibt nur das KI-Label beim Upload (Gate 6.3).
 
 | # | Behauptung im Video | Typ | Quelle | Recherche | Menschl. Freigabe |
 |---|---|---|---|---|---|
