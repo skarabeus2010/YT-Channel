@@ -1,0 +1,22 @@
+# Secrets - NIEMALS committen
+client_secret.json
+token.json
+*.token
+
+# Lokale, maschinen-spezifische Claude-Einstellungen
+.claude/settings.local.json
+
+# Echte Metadaten (Beispiel video_metadata.example.json bleibt versioniert)
+scripts/video_metadata.json
+
+# Medien-/Render-Dateien
+*.mp4
+*.mov
+*.wav
+*.mp3
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
