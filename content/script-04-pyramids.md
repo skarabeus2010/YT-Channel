@@ -21,7 +21,7 @@
 `[VISUAL: Tight low-angle — a worker tips a clay jar of water onto the sand directly in front of the sledge runner; the dark wet line spreads. Macro of damp sand grains binding.]`
 
 **[0:24–0:31 — BELEG]**
-> "Physicists measured it in 2014: the right amount of water can roughly halve the pulling force. And an ancient tomb painting shows a worker doing exactly this — pouring water before a sledge."
+> "Physicists measured it in 2014: the right amount of water can roughly halve the pulling force. And in one ancient tomb painting, a worker pours liquid in front of a sledge hauling a giant statue — which scientists think shows this very trick."
 `[VISUAL: Reconstructed Egyptian wall-painting style frame of a figure pouring water ahead of a sledge carrying a large statue. NOTE: stylized as a painted relief, clearly a depiction — NOT presented as photo/footage.]`
 
 **[0:31–0:35 — PAYOFF + CTA]**
