@@ -12,9 +12,9 @@
 - [x] Alle Sach-Aussagen mit Quelle im Quellen-Log belegt (Recherche 2026-06-16: Fall et al. 2014 + Djehutihotep)
 - [x] Fakt vs. dramatisierte Rekonstruktion klar getrennt (Deutung der Wasser-Geste als „scientists think" formuliert)
 - [x] Keine KI-Halluzination als Fakt; Wandbild-Frame bewusst als gemalte Darstellung, nicht „Archiv"
-- [ ] Visuals epochen-plausibel — **prüfbar erst nach Generierung** (Old-Kingdom-Kleidung, keine Anachronismen)
-- [ ] ⚠ **MENSCHLICHE ENDFREIGABE der Fakten (Heiko) ausstehend** → bis dahin Hard-Stop offen
-- [ ] Offen: #6 „2-ton" vs. 2,5-t final entscheiden; #6/#8 Quellen nachziehen
+- [x] Visuals epochen-plausibel (S1–S5 generiert, geprüft: Leinenschurz, Schlitten, nackter Kalkstein — keine groben Anachronismen; S4 als Gemälde erkennbar)
+- [x] ✅ **MENSCHLICHE ENDFREIGABE der Fakten (Heiko) erteilt 2026-06-16** → Hard-Stop 6.2 bestanden
+- [x] „2-ton" im Hook als zulässiger Richtwert bestätigt
 
 ## 6.3 KI-Compliance ⚠ HARD-STOP
 - [ ] YouTube „synthetic/altered content"-Label — **beim Upload manuell (Studio)**
@@ -46,11 +46,14 @@
 | **Summe (planbar)** | **9/10** | Produktions-/Compliance-Dimensionen offen |
 
 ## Verdikt
-- [ ] **GO**
-- [ ] **HARD-STOP**
-- [x] **PENDING / REVISE** — nötige Schritte bis GO:
-  1. **Menschliche Faktenfreigabe** im Quellen-Log signieren (v. a. #5-Statue-Präzisierung, #6 Gewichtsangabe).
-  2. Higgsfield-Zugang herstellen (MCP neu verbinden + auth **oder** CLI freigeben) → 5 Clips (Kling 3.0) generieren.
-  3. Voice + Schnitt (CapCut/DaVinci) + Captions + Content-ID-sichere Musik (Lizenz-ID).
-  4. Export mit **C2PA**, Thumbnail (Canva, „JUST WATER").
-  5. Upload (privat) via `scripts/upload_youtube.py` → in Studio **KI-Label setzen** → finaler Controller-GO → Publish.
+- [x] **CONDITIONAL GO** — Inhalt + Produktion fertig & freigegeben. Es fehlt nur noch die **Upload-Compliance (Gate 6.3)**, die technisch erst beim Hochladen gesetzt wird.
+- [ ] HARD-STOP / REVISE
+
+**Erledigt:** ✅ Faktenfreigabe · ✅ 5 Clips (Kling 3.0) · ✅ Erzählstimme (Inworld TTS) · ✅ Captions eingebrannt · ✅ Content-ID-sichere Musik (Higgsfield Sonilo, kommerziell via PLUS) · ✅ Export `pyramids-short_FINAL.mp4`.
+
+**Noch offen bis Publish (Gate 6.3, beim Upload):**
+1. Kanal „Embered Ages" muss existieren (Brand Account, s. [channel-setup](../docs/channel-setup.md)).
+2. Upload (privat) — manuell in Studio oder via `scripts/upload_youtube.py`.
+3. **KI-Disclosure-Label** „altered/synthetic content" in Studio setzen (Pflicht).
+4. C2PA-Metadaten / Disclosure-Text in Description (steht in [seo-04](seo-04-pyramids.md)).
+5. Thumbnail „JUST WATER" optional (Shorts nehmen Frame).

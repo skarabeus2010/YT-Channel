@@ -19,6 +19,10 @@ scripts/video_metadata.json
 *.mov
 *.wav
 *.mp3
+*.m4a
+
+# Generierte Higgsfield-Renders (groß, reproduzierbar) — Skripte/Logs bleiben versioniert
+content/renders/
 
 # Python
 __pycache__/

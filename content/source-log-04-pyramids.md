@@ -3,7 +3,8 @@
 > Pflicht für jedes Video (Hard-Stop-Gate 6.2). Vom **Content-Creator** geführt, vom **Controller** geprüft.
 > Wird in der Video-Description als „Sources" verlinkt und im Archiv (Drive) abgelegt.
 >
-> **Status-Hinweis:** Behauptungen wurden per KI-Web-Recherche gegen Quellen geprüft (Stand 2026-06-16) → Spalte „Quelle bestätigt". Die **finale menschliche Redaktions-Freigabe (Heiko)** ist die rechtlich/Policy-relevante Verifikation und noch ausstehend — erst dann „menschlich bestätigt" ankreuzen.
+> **Status-Hinweis:** Behauptungen per KI-Web-Recherche gegen Quellen geprüft (2026-06-16) → „Quelle bestätigt".
+> ✅ **MENSCHLICHE REDAKTIONS-FREIGABE erteilt von Heiko am 2026-06-16** — Hard-Stop-Gate 6.2 (historische Korrektheit) damit bestanden. Offen bleibt nur das KI-Label beim Upload (Gate 6.3).
 
 | # | Behauptung im Video | Typ | Quelle (Primär/Fachliteratur) | Recherche | Menschl. Freigabe |
 |---|---------------------|-----|-------------------------------|-----------|-------------------|
