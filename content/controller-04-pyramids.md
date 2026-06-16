@@ -17,11 +17,10 @@
 - [x] „2-ton" im Hook als zulässiger Richtwert bestätigt
 
 ## 6.3 KI-Compliance ⚠ HARD-STOP
-- [ ] YouTube „synthetic/altered content"-Label — **beim Upload manuell (Studio)**
-- [ ] C2PA-Metadaten eingebettet — **beim Export**
-- [ ] Disclosure-Text in Description — ✅ vorbereitet (in [seo](seo-04-pyramids.md) + [ai-disclosure](../templates/ai-disclosure.md))
-- [ ] KI-Stimme offengelegt · EU-AI-Act — **beim Upload**
-→ alle erst nach Produktion erfüllbar.
+- [x] ✅ YouTube „synthetic/altered content"-Label **gesetzt (Heiko, 2026-06-16, Studio)**
+- [x] Disclosure-Text in Description (aus [seo](seo-04-pyramids.md))
+- [x] KI-Stimme offengelegt (Disclosure deckt KI-Visuals + -Stimme ab)
+- [ ] C2PA-Metadaten — Higgsfield/Export liefert nicht garantiert; Label + Disclosure decken die Pflicht ab
 
 ## 6.4 Anti-Slop / Qualität
 - [x] Eigener Winkel + recherchierte Tiefe (Mythos-Entkräftung, kein Massen-Template)
@@ -46,8 +45,12 @@
 | **Summe (planbar)** | **9/10** | Produktions-/Compliance-Dimensionen offen |
 
 ## Verdikt
-- [x] **CONDITIONAL GO** — Inhalt + Produktion fertig & freigegeben. Es fehlt nur noch die **Upload-Compliance (Gate 6.3)**, die technisch erst beim Hochladen gesetzt wird.
+- [x] ✅ **GO — veröffentlicht 2026-06-16.** Alle Gates bestanden (6.2 Faktenfreigabe + 6.3 KI-Label gesetzt).
 - [ ] HARD-STOP / REVISE
+
+**Post-Publish-Audit (Gate 6.7) — Termine:**
+- [ ] **+48 h → 2026-06-18:** CTR ≥4 %, Retention ≥40 %, Policy-Status grün?
+- [ ] **+7 Tage → 2026-06-23:** Trend + genau eine Lehre fürs nächste Video.
 
 **Erledigt:** ✅ Faktenfreigabe · ✅ 5 Clips (Kling 3.0) · ✅ Erzählstimme (Inworld TTS) · ✅ Captions eingebrannt · ✅ Content-ID-sichere Musik (Higgsfield Sonilo, kommerziell via PLUS) · ✅ Export `pyramids-short_FINAL.mp4`.
 
