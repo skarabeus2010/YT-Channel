@@ -4,7 +4,9 @@
 - **Titel:** ⭐ A Day in Ancient Athens (24) · How Democracy Was Born (24) · A Day in the City That Invented Democracy (45)
 - **Thumbnail:** „DEMOCRACY 1.0"
 
-## VO — Kapitel (EN)
+> **PRODUKTIONS-UPDATE (2026-06-17):** Für ≥8 Min Laufzeit auf **17 Kapitel** erweitert (VO total 11:05 min). Die verbindliche, tatsächlich gesprochene VO steht in `renders/15-athens/assemble.ps1` ($texts) bzw. `renders/15-athens/captions.srt` — Faktencheck bitte dagegen. Neue Kapitel ggü. Urfassung: eigene Agora-Vertiefung, Losverfahren/Kleroterion, Frauen, Sklaverei/Silberminen, Sophisten/Bildung, Komödie, Geschworenengerichte/Wasseruhr, Ostrakismos, Perikles/Parthenon. Quellen siehe Quellen-Log unten (unverändert gültig, +Ostrakismos: Aristoteles *Ath. Pol.*; +Laurion-Silberminen: Xenophon *Poroi*).
+
+## VO — Kapitel (EN, Urfassung 8 Kap. — Referenz; tatsächliche Produktion = 17 Kap. siehe oben)
 ### CH1 Hook
 > "Two and a half thousand years ago, in one Greek city, ordinary men did something no one had really done before: they ruled themselves. No king, no emperor — the people, deciding by vote. This is a single day in ancient Athens, the city that invented democracy, in all its brilliance and all its contradictions."
 
