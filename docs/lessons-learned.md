@@ -61,3 +61,15 @@
 5. Captions-SRT (kapitel-proportional) bauen.
 6. `assemble.ps1`: Crop-Schwenk-Segmente → Concat → VO + Musik-Mix + Caption-Burn.
 7. Frames extrahieren zur Sicht-Prüfung → Faktenfreigabe → Upload → KI-Label → Publish.
+
+## 8. Zweite Produktionswelle (2026-06-17/18): 3 Long-forms in einer Session
+Erkenntnisse aus Spartan, Athens, Alexandria (je 17 Kapitel, 8:01 / 11:05 / 8:49 min):
+- **`generate_audio`-Param heißt `prompt`, NICHT `text`.** Falscher Key → „expected string, received undefined". (Bild = `prompt`, Audio ebenso.)
+- **17-Kapitel-Schema trifft die 8-Min-Schwelle zuverlässig.** ~90–100 Wörter/Kapitel × 17 ≈ 8–11 Min mit Theodore. Das ist die Standard-Long-form-Länge — Urskripte (8 Kap.) **immer** live verdoppeln. Tatsächliche VO landet in `assemble.ps1`/`captions.srt` → **Faktencheck dagegen**, nicht gegen die Skript-Urfassung (im Skript-File einen Hinweis-Block ergänzen).
+- **nsfw-Trigger 2. Welle:** antike Krieger („fearsome warrior, intense eyes") und **Jungen/Training** („boys wrestling/barefoot/ragged") flaggen häufig — sogar ein **Museums-Helm** flaggte einmal. Gegenmittel: „**fully clothed/armoured**", „youths in tunics", „archaeological artifact, museum studio light", Personen älter/bekleidet machen. Geflaggte Bilder einzeln neu prompten und weiterlaufen.
+- **Lange Kapitel (>30s) bekommen 2 Bilder** statt 1, damit der Crop-Schwenk nicht zu statisch wird (`$chImgs` mappt Kapitel→Bild-Array; Segment-Dauer = Kapitel-Dauer / Bildanzahl). 17 Kap. → ~21–24 Bilder.
+- **Musik-Wechsel** (epic→reflective) am besten **bei ch15/ch16** setzen (`$cover1 = $starts["ch16"]`) — Wechsel zum Fazit/Reflexion.
+- **`high`-Quality-Thumbnails failen/timen gelegentlich** (transient) → einfach neu feuern; MCP-Transport kann „mid-call dropped" werfen → Job-Status erneut pollen (Job läuft serverseitig weiter).
+- **Commit-Messages:** PowerShell-Here-String `@'...'@` wird vom Tool teils nicht als solcher geparst → **mehrere `-m`-Flags** nutzen statt mehrzeiliger Message.
+- **`renders/` ist gitignored** — `assemble.ps1` + `captions.srt` werden NICHT versioniert. Faktencheck-Referenz liegt nur **lokal**; im versionierten Skript-File auf die lokale captions.srt verweisen.
+- **Tempo:** 1 Long-form (VO→Bilder→Assembly→Thumbnail) ≈ wenige Minuten Wall-Clock dank 8er-Wellen + Crop-Schwenk. 3 Stück in einer Session gut machbar.
