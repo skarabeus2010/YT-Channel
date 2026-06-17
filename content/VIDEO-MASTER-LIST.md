@@ -26,7 +26,18 @@
 | 09 | Vikings/Horns Myth | renders/09-vikings/FINAL.mp4 | 0:54 | 🟡 |
 | 10 | Roman Concrete (self-healing) | renders/10-concrete/FINAL.mp4 | 0:57 | 🟡 |
 | 11 | Egypt Cats (shaved eyebrows) | renders/11-cats/FINAL.mp4 | 0:51 | 🟡 |
-| 17–26 | Batch 3 Shorts (in Produktion) | renders/17-… bis 26-… | je ~0:50 | 🟡 (siehe unten) |
+| 17 | Napoleon Wasn't Actually Short | renders/17-napoleon/FINAL.mp4 | 0:52 | 🟡 |
+| 18 | You Can't See the Great Wall From Space | renders/18-greatwall/FINAL.mp4 | 0:48 | 🟡 |
+| 19 | Medieval People Weren't Filthy | renders/19-bathing/FINAL.mp4 | 0:51 | 🟡 |
+| 20 | Einstein Never Failed Math | renders/20-einstein/FINAL.mp4 | 0:49 | 🟡 |
+| 21 | Romans Shared a Toilet Sponge | renders/21-tersorium/FINAL.mp4 | 0:53 | 🟡 |
+| 22 | Honey Never Spoils | renders/22-honey/FINAL.mp4 | 0:53 | 🟡 |
+| 23 | The Iron Maiden Was Fake | renders/23-ironmaiden/FINAL.mp4 | 0:52 | 🟡 |
+| 24 | Ketchup Was Once Medicine | renders/24-ketchup/FINAL.mp4 | 0:47 | 🟡 |
+| 25 | Egypt's Pregnancy Test Actually Worked | renders/25-pregnancy/FINAL.mp4 | 0:52 | 🟡 |
+| 26 | Ancient Rome Had Fast Food | renders/26-thermopolia/FINAL.mp4 | 0:51 | 🟡 |
+
+(Batch-3-Details + Titel-A/B + Quellen: `content/batch-3-shorts.md`)
 
 ## Hinweise
 - **Metadaten/Titel:** Long-forms in `content/script-1X-*.md`, Shorts in `content/seo-*.md`. Jede Datei enthält Titelvorschläge (1 ⭐ + 2 A/B).
