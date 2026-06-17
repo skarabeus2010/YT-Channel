@@ -1,6 +1,6 @@
 # Skript + Quellen — Why Romans Whitened Their Teeth With Urine
 
-> Content-Creator (03). Format: Short (~35s, ~125 Wörter VO). Faktencheck recherchiert; **menschliche Freigabe offen**.
+> Content-Creator (03). Format: Short (~35s, ~125 Wörter VO). Faktencheck recherchiert; ✅ **menschliche Freigabe erteilt (Heiko, 2026-06-17)**.
 
 ## VO (EN)
 > "The Romans had some of the whitest teeth in the ancient world — and their secret was urine. Urine is rich in ammonia, a natural bleach. Romans used it to wash their woollen togas and, yes, to whiten their teeth. The poet Catullus even mocked one man for smiling too much, because he scrubbed his teeth with it. Urine was so valuable that the emperor Vespasian put a tax on it. When his own son complained the money was disgusting, Vespasian held up a gold coin and asked if it smelled. 'Pecunia non olet' — money doesn't stink. And the chemistry? Ammonia really does whiten. Gross — but it worked. Follow for more history that's stranger than fiction."

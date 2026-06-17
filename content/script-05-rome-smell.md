@@ -1,6 +1,6 @@
 # Skript + Quellen — What Ancient Rome Actually Smelled Like
 
-> Content-Creator (03). Format: Short (~35s, ~130 Wörter VO). Faktencheck recherchiert; **menschliche Freigabe offen**.
+> Content-Creator (03). Format: Short (~35s, ~130 Wörter VO). Faktencheck recherchiert; ✅ **menschliche Freigabe erteilt (Heiko, 2026-06-17)**.
 
 ## VO (EN)
 > "If you time-traveled to ancient Rome, the first thing to hit you wouldn't be the sights — it'd be the smell. The Cloaca Maxima, Rome's great drain, was really a storm sewer — most homes weren't even connected to it, so waste ended up in the streets. Public toilets were long shared benches, with a communal sponge-on-a-stick instead of paper. In the towering apartment blocks, cracked pipes leaked filth down the walls. Add the reek of garum — fermented fish sauce the Romans poured on everything — plus animal dung and smoke, and the 'eternal city' was an assault on the nose. The rich fought back with perfume and incense. Glorious marble, yes — but hold your breath. Follow for more history they don't put on the postcards."

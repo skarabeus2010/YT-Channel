@@ -1,7 +1,7 @@
 # Skript + Quellen — The Real Life of a Roman Gladiator
 
 > Content-Creator (03). Format: **Long-form ~8,5 Min (~1.050 Wörter VO, 9 Kapitel)** — >8 Min für Mid-Rolls.
-> Faktencheck recherchiert 2026-06-17; **menschliche Freigabe ☐ offen**. Mythos-Korrektur-Winkel = Anti-Slop.
+> Faktencheck recherchiert 2026-06-17; ✅ **menschliche Freigabe erteilt (Heiko, 2026-06-17)**. Mythos-Korrektur-Winkel = Anti-Slop.
 
 ## VO — Kapitel (EN)
 
