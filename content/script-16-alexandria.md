@@ -4,7 +4,9 @@
 - **Titel:** ⭐ What Was Really Lost at Alexandria (37) · The Library of Alexandria: The Real Story (42) · The Myth of the Great Fire (28)
 - **Thumbnail:** „NOT ONE FIRE"
 
-## VO — Kapitel (EN)
+> **PRODUKTIONS-UPDATE (2026-06-18):** Für ≥8 Min auf **17 Kapitel** erweitert (VO total 8:49 min). Verbindliche, tatsächlich gesprochene VO in `renders/16-alexandria/assemble.ps1` ($texts) + `captions.srt` — Faktencheck dagegen. Neue/vertiefte Kapitel: Mouseion, Ptolemäer-Ehrgeiz, Schiffsdurchsuchung/Scriptorium, Scroll-Zahlen (als umstritten markiert), Eratosthenes/Euklid/Aristarch getrennt, Herophilos/Septuaginta, Caesar-Brand 48 v. Chr., Weiterbestehen danach, Förderstopp/Gelehrten-Vertreibung, Kriegsschäden, Serapeum 391 n. Chr., „kein einziger Täter"-Muster (inkl. Entkräftung der späteren Muslim-Eroberungs-Legende). Kernaussage durchgehend: **kein einzelner Brand**, sondern langsamer Niedergang durch Vernachlässigung.
+
+## VO — Kapitel (EN, Urfassung 8 Kap. — Referenz; tatsächliche Produktion = 17 Kap. siehe oben)
 ### CH1 Hook
 > "We tell it like a tragedy in a single night: the greatest library in the ancient world, all human knowledge, going up in one catastrophic blaze — and humanity set back a thousand years. It's one of history's most powerful stories. It's also mostly a myth. What really happened to the Library of Alexandria is slower, stranger, and in some ways far sadder."
 
