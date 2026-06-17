@@ -9,9 +9,9 @@
 |---|---|---|---|
 | Pyramids-Short | Short | 2026-06-16 | 🟢 Live |
 | Pompeii (Last Day) | Long-form | 2026-06-16 | 🟢 Live |
-| Urine (Roman laundry) | Short | 2026-06-16 14:45 | 🗓️→🟢 |
-| Gladiator | Long-form | 2026-06-16 20:00 | 🗓️→🟢 |
-| Two-Sleeps (biphasic sleep) | Short | 2026-06-17 14:00 | 🗓️→🟢 |
+| Urine (Roman laundry) | Short | 2026-06-17 | 🟢 Live |
+| Gladiator | Long-form | 2026-06-17 | 🟢 Live |
+| Two-Sleeps (biphasic sleep) | Short | 2026-06-17 14:00 | 🗓️ terminiert |
 | Rome-Smell | Short | _Termin offen_ | 🔵 Upload offen |
 
 → Alles Weitere unten ist **produziert, aber noch nicht hochgeladen** (🟡).
@@ -20,7 +20,7 @@
 | # | Titel (⭐ empfohlen) | Datei | Länge | Thumbnail | Veröffentlichung | Status |
 |---|---|---|---|---|---|---|
 | 01 | Pompeii (Last Day) | renders/…/FINAL.mp4 | ~9:00 | ✅ | 2026-06-16 | 🟢 Live |
-| — | Gladiator | renders/…/FINAL.mp4 | 7:59 | ✅ | 2026-06-16 20:00 | 🗓️→🟢 |
+| — | Gladiator | renders/…/FINAL.mp4 | 7:59 | ✅ | 2026-06-17 | 🟢 Live |
 | 12 | ⭐ How the Pyramids Were Really Built | renders/12-pyramid-builder/pyramid_FINAL.mp4 | 8:17 | ✅ thumb-pyramid.jpg | — | 🟡 |
 | 13 | ⭐ A Day in the Life of a Roman Legionary | renders/13-legionary/legionary_FINAL.mp4 | 8:06 | ✅ thumb-legionary.jpg | — | 🟡 |
 | 14 | ⭐ A Day in the Life of a Spartan Warrior | renders/14-spartan/spartan_FINAL.mp4 | 8:01 | ✅ thumb-spartan.jpg (BRED FOR WAR) | — | 🟡 |
@@ -31,8 +31,8 @@
 | # | Titel | Datei | Länge | Veröffentlichung | Status |
 |---|---|---|---|---|---|
 | 01 | Pyramids-Short | renders/…/FINAL.mp4 | ~0:45 | 2026-06-16 | 🟢 Live |
-| — | Urine (Roman laundry) | renders/…/FINAL.mp4 | ~0:50 | 2026-06-16 14:45 | 🗓️→🟢 |
-| — | Two-Sleeps (biphasic sleep) | renders/…/FINAL.mp4 | ~0:50 | 2026-06-17 14:00 | 🗓️→🟢 |
+| — | Urine (Roman laundry) | renders/…/FINAL.mp4 | ~0:50 | 2026-06-17 | 🟢 Live |
+| — | Two-Sleeps (biphasic sleep) | renders/…/FINAL.mp4 | ~0:50 | 2026-06-17 14:00 | 🗓️ terminiert |
 | — | Rome-Smell | renders/…/FINAL.mp4 | ~0:50 | _Termin offen_ | 🔵 Upload offen |
 | 07 | Vomitorium Myth | renders/07-vomitorium/FINAL.mp4 | 0:52 | — | 🟡 |
 | 08 | Cleopatra (closer to us than pyramids) | renders/08-cleopatra/FINAL.mp4 | 0:49 | — | 🟡 |
