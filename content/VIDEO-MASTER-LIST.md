@@ -52,7 +52,18 @@
 | 25 | Egypt's Pregnancy Test Actually Worked | renders/25-pregnancy/FINAL.mp4 | 0:52 | — | 🟡 |
 | 26 | Ancient Rome Had Fast Food | renders/26-thermopolia/FINAL.mp4 | 0:51 | — | 🟡 |
 
-(Batch-3-Details + Titel-A/B + Quellen: `content/batch-3-shorts.md`)
+| 33 | Vikings Were Surprisingly Clean | renders/33-vikings-clean/FINAL.mp4 | 0:59 | — | 🟡 |
+| 34 | Vikings Reached America Before Columbus | renders/34-vikings-america/FINAL.mp4 | 1:00 | — | 🟡 |
+| 35 | The Viking Berserkers' Battle Trance | renders/35-berserkers/FINAL.mp4 | 0:55 | — | 🟡 |
+| 36 | The Chastity Belt Is a Myth | renders/36-chastity-belt/FINAL.mp4 | 0:54 | — | 🟡 |
+| 37 | Medieval Knights Fought by the Book | renders/37-fechtbuch/FINAL.mp4 | 1:01 | — | 🟡 |
+| 38 | Ninjas Were Spies, Not Assassins | renders/38-ninjas/FINAL.mp4 | 0:57 | — | 🟡 |
+| 39 | Female Samurai Existed | renders/39-female-samurai/FINAL.mp4 | 0:55 | — | 🟡 |
+| 40 | Genghis Khan's Millions of Descendants | renders/40-genghis/FINAL.mp4 | 0:51 | — | 🟡 |
+| 41 | The Mongols Had a Pony Express | renders/41-yam/FINAL.mp4 | 0:55 | — | 🟡 |
+| 42 | Samurai Armor Was Lighter Than You Think | renders/42-samurai-armor/FINAL.mp4 | 0:52 | — | 🟡 |
+
+(Batch-3-Details: `content/batch-3-shorts.md` · Batch-4-Details + Quellen: `content/batch-4-shorts.md`. **Batch 4 = neue Stimme Hades.**)
 
 ## Zählung
 - **Live / terminiert:** 7 (3 Long-forms, 4 Shorts)
