@@ -28,6 +28,7 @@
 | 15 | ⭐ A Day in Ancient Athens | renders/15-athens/athens_FINAL.mp4 | 11:05 | ✅ thumb-athens.jpg (DEMOCRACY 1.0) | — | 🟡 |
 | 16 | ⭐ What Was Really Lost at Alexandria | renders/16-alexandria/alexandria_FINAL.mp4 | 8:49 | ✅ thumb-alexandria.jpg (NOT ONE FIRE) | — | 🟡 |
 | 27 | ⭐ Gladiators: The Truth Behind the Legend | renders/27-gladiators/gladiators_FINAL.mp4 | 18:28 | ✅ thumb-gladiators.jpg (BORN TO FIGHT) | 2026-06-19 09:00 | 🗓️ terminiert (Fakten ✓ · KI-Label ✓) |
+| 28 | ⭐ A Day in the Life of a Viking | renders/28-viking/viking_FINAL.mp4 | 9:30 | ✅ thumb-viking.jpg (THE REAL VIKINGS) | — | 🟡 (Hades) |
 
 ## Shorts (9:16, Discovery-Funnel)
 | # | Titel | Datei | Länge | Veröffentlichung | Status |
