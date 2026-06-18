@@ -11,7 +11,7 @@
 | Pompeii (Last Day) | Long-form | 2026-06-16 | 🟢 Live |
 | Urine (Roman laundry) | Short | 2026-06-17 | 🟢 Live |
 | Gladiator | Long-form | 2026-06-17 | 🟢 Live |
-| Two-Sleeps (biphasic sleep) | Short | 2026-06-17 14:00 | 🗓️ terminiert |
+| Two-Sleeps (biphasic sleep) | Short | 2026-06-18 13:15 | 🗓️ terminiert |
 | Rome-Smell | Short | _Termin offen_ | 🔵 Upload offen |
 | Gladiators: The Truth Behind the Legend | Long-form | 2026-06-19 09:00 | 🗓️ terminiert |
 
@@ -34,7 +34,7 @@
 |---|---|---|---|---|---|
 | 01 | Pyramids-Short | renders/…/FINAL.mp4 | ~0:45 | 2026-06-16 | 🟢 Live |
 | — | Urine (Roman laundry) | renders/…/FINAL.mp4 | ~0:50 | 2026-06-17 | 🟢 Live |
-| — | Two-Sleeps (biphasic sleep) | renders/…/FINAL.mp4 | ~0:50 | 2026-06-17 14:00 | 🗓️ terminiert |
+| — | Two-Sleeps (biphasic sleep) | renders/…/FINAL.mp4 | ~0:50 | 2026-06-18 13:15 | 🗓️ terminiert |
 | — | Rome-Smell | renders/…/FINAL.mp4 | ~0:50 | _Termin offen_ | 🔵 Upload offen |
 | 07 | Vomitorium Myth | renders/07-vomitorium/FINAL.mp4 | 0:52 | — | 🟡 |
 | 08 | Cleopatra (closer to us than pyramids) | renders/08-cleopatra/FINAL.mp4 | 0:49 | — | 🟡 |
