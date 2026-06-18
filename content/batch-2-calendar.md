@@ -1,5 +1,7 @@
 # Content-Kalender — Batch 2 (5 Shorts + 5 Long-forms)
 
+> ⚠️ **ARCHIVIERT (Konzept-Übersicht).** Der maßgebliche, datierte Veröffentlichungsplan steht jetzt zusammengeführt in **`content-calendar.md`** (Master). Diese Datei bleibt nur als Konzept-/Skript-Index erhalten.
+
 > Konzepte + Skripte vom Strategen/Content-Creator (2026-06-17). **Fakten in den Skripten sind als Entwurf recherchiert/zu verifizieren — menschliche Freigabe vor Produktion nötig.** Alle mit Mythos-Korrektur-/Curiosity-Winkel (Anti-Slop).
 
 ## Shorts (24–58 Sek., 9:16)
