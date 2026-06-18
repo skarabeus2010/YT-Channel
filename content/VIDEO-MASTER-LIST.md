@@ -13,7 +13,7 @@
 | Gladiator | Long-form | 2026-06-17 | 🟢 Live |
 | Two-Sleeps (biphasic sleep) | Short | 2026-06-18 13:15 | 🗓️ terminiert |
 | Rome-Smell | Short | _Termin offen_ | 🔵 Upload offen |
-| Gladiators: The Truth Behind the Legend | Long-form | 2026-06-19 09:00 | 🗓️ terminiert |
+| Gladiators: The Truth Behind the Legend | Long-form | 2026-06-19 09:00 | 🗓️ terminiert (Fakten ✓ · KI-Label ✓) |
 
 → Alles Weitere unten ist **produziert, aber noch nicht hochgeladen** (🟡).
 
@@ -27,7 +27,7 @@
 | 14 | ⭐ A Day in the Life of a Spartan Warrior | renders/14-spartan/spartan_FINAL.mp4 | 8:01 | ✅ thumb-spartan.jpg (BRED FOR WAR) | — | 🟡 |
 | 15 | ⭐ A Day in Ancient Athens | renders/15-athens/athens_FINAL.mp4 | 11:05 | ✅ thumb-athens.jpg (DEMOCRACY 1.0) | — | 🟡 |
 | 16 | ⭐ What Was Really Lost at Alexandria | renders/16-alexandria/alexandria_FINAL.mp4 | 8:49 | ✅ thumb-alexandria.jpg (NOT ONE FIRE) | — | 🟡 |
-| 27 | ⭐ Gladiators: The Truth Behind the Legend | renders/27-gladiators/gladiators_FINAL.mp4 | 18:28 | ✅ thumb-gladiators.jpg (BORN TO FIGHT) | 2026-06-19 09:00 | 🗓️ terminiert |
+| 27 | ⭐ Gladiators: The Truth Behind the Legend | renders/27-gladiators/gladiators_FINAL.mp4 | 18:28 | ✅ thumb-gladiators.jpg (BORN TO FIGHT) | 2026-06-19 09:00 | 🗓️ terminiert (Fakten ✓ · KI-Label ✓) |
 
 ## Shorts (9:16, Discovery-Funnel)
 | # | Titel | Datei | Länge | Veröffentlichung | Status |
