@@ -4,6 +4,7 @@
 - **Finaler Titel (<60):** Gladiators: The Truth Behind the Legend (44)
   - *Alt:* The Real Lives of the Roman Gladiators (37) · What It Really Took to Be a Gladiator (43)
 - **Thumbnail-Text:** „BORN TO FIGHT"
+- **Veröffentlichung:** 2026-06-19, 09:00 Uhr (Europe/Berlin) — 🗓️ terminiert
 - Format: Long-form **18:28** (Story/„zum Anhören") → mehrere **Mid-Rolls**.
 - Datei: `renders/27-gladiators/gladiators_FINAL.mp4` · Thumb: `thumb-gladiators.jpg`
 - ⚠️ Eigenständiges Video, **nicht** verwechseln mit `seo-06-gladiator.md` (älterer 8,5-Min-Clip).
