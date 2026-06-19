@@ -22,13 +22,14 @@
 |---|---|---|---|---|---|---|
 | 01 | Pompeii (Last Day) | renders/…/FINAL.mp4 | ~9:00 | ✅ | 2026-06-16 | 🟢 Live |
 | — | Gladiator | renders/…/FINAL.mp4 | 7:59 | ✅ | 2026-06-17 | 🟢 Live |
-| 12 | ⭐ How the Pyramids Were Really Built | renders/12-pyramid-builder/pyramid_FINAL.mp4 | 8:17 | ✅ thumb-pyramid.jpg | — | 🟡 |
+| 12 | ⭐ How the Pyramids Were Really Built | renders/12-pyramid-builder/pyramid_FINAL.mp4 | 8:17 | ✅ thumb-pyramid.jpg | 2026-06-22 09:00 | 🗓️ terminiert |
 | 13 | ⭐ A Day in the Life of a Roman Legionary | renders/13-legionary/legionary_FINAL.mp4 | 8:06 | ✅ thumb-legionary.jpg | — | 🟡 |
 | 14 | ⭐ A Day in the Life of a Spartan Warrior | renders/14-spartan/spartan_FINAL.mp4 | 8:01 | ✅ thumb-spartan.jpg (BRED FOR WAR) | — | 🟡 |
 | 15 | ⭐ A Day in Ancient Athens | renders/15-athens/athens_FINAL.mp4 | 11:05 | ✅ thumb-athens.jpg (DEMOCRACY 1.0) | — | 🟡 |
 | 16 | ⭐ What Was Really Lost at Alexandria | renders/16-alexandria/alexandria_FINAL.mp4 | 8:49 | ✅ thumb-alexandria.jpg (NOT ONE FIRE) | — | 🟡 |
 | 27 | ⭐ Gladiators: The Truth Behind the Legend | renders/27-gladiators/gladiators_FINAL.mp4 | 18:28 | ✅ thumb-gladiators.jpg (BORN TO FIGHT) | 2026-06-19 09:00 | 🗓️ terminiert (Fakten ✓ · KI-Label ✓) |
 | 28 | ⭐ A Day in the Life of a Viking | renders/28-viking/viking_FINAL.mp4 | 9:30 | ✅ thumb-viking.jpg (THE REAL VIKINGS) | — | 🟡 (Hades) |
+| 29 | ⭐ A Day in the Life of a Medieval Knight | renders/29-knight/knight_FINAL.mp4 | 9:09 | ✅ thumb-knight.jpg (THE REAL KNIGHT) | — | 🟡 (Hades) |
 
 ## Shorts (9:16, Discovery-Funnel)
 | # | Titel | Datei | Länge | Veröffentlichung | Status |
@@ -38,7 +39,7 @@
 | — | Two-Sleeps (biphasic sleep) | renders/…/FINAL.mp4 | ~0:50 | 2026-06-18 13:15 | 🗓️ terminiert |
 | — | Rome-Smell | renders/…/FINAL.mp4 | ~0:50 | _Termin offen_ | 🔵 Upload offen |
 | 07 | Vomitorium Myth | renders/07-vomitorium/FINAL.mp4 | 0:52 | — | 🟡 |
-| 08 | Cleopatra (closer to us than pyramids) | renders/08-cleopatra/FINAL.mp4 | 0:49 | — | 🟡 |
+| 08 | Cleopatra (closer to us than pyramids) | renders/08-cleopatra/FINAL.mp4 | 0:49 | 2026-06-20 17:00 | 🗓️ terminiert |
 | 09 | Vikings/Horns Myth | renders/09-vikings/FINAL.mp4 | 0:54 | — | 🟡 |
 | 10 | Roman Concrete (self-healing) | renders/10-concrete/FINAL.mp4 | 0:57 | — | 🟡 |
 | 11 | Egypt Cats (shaved eyebrows) | renders/11-cats/FINAL.mp4 | 0:51 | — | 🟡 |

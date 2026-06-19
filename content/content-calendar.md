@@ -19,9 +19,9 @@
 ## ⏳ Vorgeschlagener Plan (von dir in Studio terminieren)
 | Datum | Tag | Zeit | Video | Format | Datei/Dir |
 |---|---|---|---|---|---|
-| 2026-06-20 | Sa | 17:00 | Cleopatra (closer to us than the pyramids) | Short | 08-cleopatra |
+| 2026-06-20 | Sa | 17:00 | Cleopatra (closer to us than the pyramids) | Short | 08-cleopatra | eingestellt für 20.01.2026
 | 2026-06-21 | So | 17:00 | Napoleon Wasn't Actually Short | Short | 17-napoleon |
-| **2026-06-22** | **Mo** | **09:00** | **How the Pyramids Were Really Built** | **Long-form** | **12-pyramid-builder** |
+| **2026-06-22** | **Mo** | **09:00** | **How the Pyramids Were Really Built** | **Long-form** | **12-pyramid-builder** | eingestellt für 22.06.26
 | 2026-06-22 | Mo | 17:00 | You Can't See the Great Wall From Space | Short | 18-greatwall |
 | 2026-06-23 | Di | 17:00 | Honey Never Spoils | Short | 22-honey |
 | 2026-06-24 | Mi | 17:00 | Vikings Never Wore Horned Helmets | Short | 09-vikings |
