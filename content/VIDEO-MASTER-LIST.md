@@ -30,6 +30,9 @@
 | 27 | ⭐ Gladiators: The Truth Behind the Legend | renders/27-gladiators/gladiators_FINAL.mp4 | 18:28 | ✅ thumb-gladiators.jpg (BORN TO FIGHT) | 2026-06-19 09:00 | 🗓️ terminiert (Fakten ✓ · KI-Label ✓) |
 | 28 | ⭐ A Day in the Life of a Viking | renders/28-viking/viking_FINAL.mp4 | 9:30 | ✅ thumb-viking.jpg (THE REAL VIKINGS) | — | 🟡 (Hades) |
 | 29 | ⭐ A Day in the Life of a Medieval Knight | renders/29-knight/knight_FINAL.mp4 | 9:09 | ✅ thumb-knight.jpg (THE REAL KNIGHT) | — | 🟡 (Hades) |
+| 30 | A Day in the Life of a Mongol Warrior | renders/30-mongol/ (WIP) | — | — | — | 🚧 WIP 12/15 VO (Credits leer) |
+| 31 | A Day in the Life of a Samurai | (geplant) | — | — | — | ⛔ offen (Credits) |
+| 32 | How Rome Actually Fell | (geplant) | — | — | — | ⛔ offen (Credits) |
 
 ## Shorts (9:16, Discovery-Funnel)
 | # | Titel | Datei | Länge | Veröffentlichung | Status |
