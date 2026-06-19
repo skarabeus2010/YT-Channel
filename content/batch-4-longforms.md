@@ -3,6 +3,8 @@
 > 5 Long-forms, **Stimme Hades (en)**, ~9–12 Min. Verbindliche VO je Video: `renders/<dir>/captions.srt` — Faktencheck dagegen.
 > Status: 🅿️ produziert, wartet auf Faktenfreigabe + KI-Label.
 
+> ⛔ **2026-06-19: Higgsfield-Credits aufgebraucht (0,59 übrig, PLUS).** Viking (28) + Knight (29) fertig. **Mongol (30) angefangen** (VO ch1–12 von 15 gesichert in `renders/30-mongol/`, assemble.ps1 + captions geschrieben) — es fehlen **ch13–15 VO + 14 Bilder + Assembly + Thumbnail**. **Samurai (31) + Rome's Fall (32) noch nicht begonnen.** → Sobald Credits zurück sind (Monats-Reset oder Top-up), kann ich nahtlos weiterproduzieren.
+
 ---
 ## 28 · A Day in the Life of a Viking ✅
 - **Datei:** `renders/28-viking/viking_FINAL.mp4` — **9:30**, 33 MB · Thumb: `thumb-viking.jpg` („THE REAL VIKINGS")
